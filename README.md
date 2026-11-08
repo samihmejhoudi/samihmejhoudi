@@ -1,6 +1,6 @@
 # Hi, I'm Samih Mejhoudi 👋
 
-🎓 MSc in Computer Technology (AI & Data Science) @ Harbin Institute of Technology, Shenzhen  
+🎓 MSc AI & Data Science (M1@HITSZ | M2@ESILV) 
 💻 Data Science & Software Engineering Intern  
 🌍 English | French | Arabic  
 
